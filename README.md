@@ -13,6 +13,8 @@ I'm a Computer Science Engineering graduate passionate about building **scalable
 <p align="center">
   <img src="https://raw.githubusercontent.com/yogii19/yogii19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>  
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.yogii_reddy_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-reddy19) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yogeshreddy924) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshreddy924@gmail.com) 
 
